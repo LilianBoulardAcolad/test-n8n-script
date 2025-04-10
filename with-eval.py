@@ -1,6 +1,6 @@
 def main():
-    message = "Hello world!"
+    message = 'Hello world!'
     print(message)
-    return {"message": message}
+    return {'message': message}
 
 main()
